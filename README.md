@@ -1,5 +1,6 @@
 ### Link to Medium blog: https://medium.com/@chris.s.park/forecasting-influenza-related-pneumonia-mortality-using-sarima-856a05c330cf
 
+### Forecasting Influenza Related Pneumonia Mortality using SARIMA
 I acquired data from the CDC’s National Center for Health Statistics (NCHS) mortality surveillance data. The data contained 341 observations, beginning at 2013–10–07 and ending 2020–04–20. Pneumonia deaths were reported if they had been associated with influenza ICD-10 codes.
 
 After cleaning the data set, I ran a naive plot documenting the trend of pneumonia mortality for the past 6 cycles.
